@@ -1,0 +1,3 @@
+[submodule "pdfparser"]
+	path = pdfparser
+	url = git://github.com/smalot/pdfparser
