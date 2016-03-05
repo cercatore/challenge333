@@ -16,7 +16,7 @@ include 'scan.php';
 include 'plainhtml.php';
 include 'pdfparser-0.9.20/vendor/autoload.php';
 // ERROR REPORTING
-error_reporting(E_ERROR | E_PARSE);
+
                                  // MAIN MANIN MAIN
   
   
